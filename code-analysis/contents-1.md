@@ -13,8 +13,10 @@ Utilisez des références pour justifier votre argumentaire, vos choix etc.
 ## Authors
 
 We are four students in last year of Polytech' Nice-Sophia specialized in Software Architecture :
-
-* .... &lt;xxx@gmail.com&gt;
+* François Melkonian
+* Jeremy Junac
+* Alexis Couvreur
+* Lucas Matteo (lucas.matteo@etu.unice.fr)
 
 ## I. Research context /Project
 
